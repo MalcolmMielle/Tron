@@ -1,0 +1,37 @@
+#include <cstdlib>
+#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+#include <SDL/SDL.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
+#include <GL/glut.h>
+#include "Koelis.h"
+
+Point3d_l* ajoutPoint3d_l(Point3d_l* in,f) //Ajout des structures couleurs
+{
+	Point3d_l *nouveau;
+	nouveau=(Point3d_l *)malloc(sizeof(Point3d_l));
+	fread(nouveau->x,1,1,f);
+	fread(nouveau->y,1,1,f);
+	fread(nouveau->z,1,1,f);
+	nouveau->next=in;
+	return nouveau;
+}
+
+void afficher(Point3d_l* Point1) //Affichage des structures de la liste Ouverte
+{
+	Point3d_l* val = Point1;
+	while(val!=NULL)
+	{
+		printf("x = %f   ", val->x);
+		printf("y = %f", val->y);
+		printf("z = %f", val->z);
+		printf("Son papa : %p\n", val->next);
+//		printf("Le pointeur suivant est %p\n", val);
+		val=val->next;
+
+	}
+}

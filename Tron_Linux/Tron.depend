@@ -1,0 +1,836 @@
+# depslib dependency file v1.0
+1333416828 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/score.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\begin_code.h
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\close_code.h
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1333413891 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\jeux.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"Header/Jeux.h"
+	"Header/Robot.h"
+
+1333372208 c:\users\antoine\documents\cour\informatique générale\projets\tron\header\jeux.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"Header/Robot.h"
+
+1333372208 c:\users\antoine\documents\cour\informatique générale\projets\tron\\header\jeux.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"Header/Robot.h"
+
+1333241552 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\multijoueur.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"Header/Jeux.h"
+	"Header/Robot.h"
+
+1325814793 c:\program files (x86)\codeblocks\sdl-1.2.14\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325818393 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325814793 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1332264931 c:\users\antoine\documents\cour\informatique générale\projets\tron\\header\bot.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+
+1332265602 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\bot.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/bot.h"
+	"Header/Jeux.h"
+
+1332264931 c:\users\antoine\documents\cour\informatique générale\projets\tron\header\bot.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+
+1333242780 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\score.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/bot.h"
+	<string.h>
+
+1333241631 c:\users\antoine\documents\cour\informatique générale\projets\tron\header\score.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+
+1333241624 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\option.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/score.h"
+
+1333241631 c:\users\antoine\documents\cour\informatique générale\projets\tron\\header\score.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+
+1332259803 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\son.c
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/bot.h"
+	"Header/score.h"
+	<fmodex/fmod.h>
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmodex\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmodex\fmod_codec.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmodex\fmod_dsp.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmodex\fmod_memoryinfo.h
+
+1330289899 c:\users\antoine\documents\cour\informatique générale\projets\tron\\header\son.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/bot.h"
+	"Header/score.h"
+	<fmodex/fmod.h>
+
+1333371399 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\recup_texte.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	<string.h>
+
+1330450627 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\carre2.c
+	"Header/bot.h"
+	<stdio.h>
+	<stdlib.h>
+
+1333408305 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\perso.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/bot.h"
+	"Header/score.h"
+	<math.h>
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\fmod_codec.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\fmod_dsp.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\fmod_memoryinfo.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_codec.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_dsp.h
+
+1330051450 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_memoryinfo.h
+
+1332264580 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\robotfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1333292700 c:\users\antoine\documents\cour\informatique générale\projets\tron\\header\robot.h
+
+1332862490 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\antigrav.c
+	<stdio.h>
+	<stdlib.h>
+	"Robot.h"
+
+1332858627 c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\robot.h
+
+1333246842 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\astar[tron].c
+	<stdio.h>
+	<stdlib.h>
+	"Robot.h"
+
+1333246842 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\botalea.c
+	<stdio.h>
+	<stdlib.h>
+	"Robot.h"
+
+1333246695 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\robotcouleur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Robot.h"
+
+1333247904 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\tron cacaprout\tron\bot-final\ajoutstruct.c
+	<stdio.h>
+	<stdlib.h>
+	"Robot.h"
+
+1333371377 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\robottueur.c
+	<stdlib.h>
+	<stdio.h>
+	"Header/Robot.h"
+
+1333386174 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\free.c
+	<stdio.h>
+	<stdlib.h>
+	"Header/Robot.h"
+
+1333292910 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\antigrav.c
+	<stdio.h>
+	<stdlib.h>
+	"Header/Robot.h"
+
+1333410022 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\astar[tron].c
+	<stdio.h>
+	<stdlib.h>
+	"Header/Robot.h"
+
+1333385312 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\botalea.c
+	<stdio.h>
+	<stdlib.h>
+	"Header/Robot.h"
+
+1333412765 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\robotcouleur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Header/Robot.h"
+
+1333292910 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\ajoutstruct.c
+	<stdio.h>
+	<stdlib.h>
+	"Header/Robot.h"
+
+1333412899 source:c:\users\antoine\documents\cour\informatique générale\projets\tron\fonction\score.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	"Header/Jeux.h"
+	<SDL/SDL_ttf.h>
+	"Header/bot.h"
+	<string.h>
+
